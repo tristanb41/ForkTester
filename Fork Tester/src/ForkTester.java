@@ -10,7 +10,7 @@ public class ForkTester
 		// Download it to your home local repo.
 		// Commit that back to GitHub.
 		// Update your local school repo and show me.
-
+		System.out.println("Here is my addition to the code in class!");
 		}
 
 	}
